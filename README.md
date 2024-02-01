@@ -22,7 +22,7 @@ This is a simple web project developed using HTML, CSS, and JavaScript for monit
 ## How to Run the Project
 1. Clone this repository to your local environment:
 ```
-git clone https://github.com/your-username/bytebank.git
+git clone https://github.com/CarolWainstein/byte-bank.git
 ```
 2. Open the index.html file in your preferred browser.
 
